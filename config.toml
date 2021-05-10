@@ -1,6 +1,6 @@
 baseURL = "https://takanorimasuda1.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "tk blog"
 theme = "ananke"
 canonifyurls = true
 publishDir = "docs"
