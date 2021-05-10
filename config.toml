@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "tk blog"
 theme = "ananke"
 canonifyurls = true
+contentDir = "content"
 publishDir = "docs"
