@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://takanorimasuda1.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+canonifyurls = true
+publishDir = "docs"
